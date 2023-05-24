@@ -6,14 +6,21 @@
 }
 .nav li{
     display: inline-block;
+<<<<<<< HEAD
     padding: 10px;
+=======
+    padding: 20px;
+>>>>>>> 170e3f61abc390f71a1e2116e5543f3f0ae2dee2
    font-family: Arial, Helvetica, sans-serif;
    font-weight: bold;
 }
 .nav a {
     float: left;
     display: block;
+<<<<<<< HEAD
     background-color: #ffb6c1;
+=======
+>>>>>>> 170e3f61abc390f71a1e2116e5543f3f0ae2dee2
     
     text-align: center;
     padding: 14px 16px;
@@ -23,15 +30,25 @@
 .travel{
     position: absolute;
     top: 0;
+<<<<<<< HEAD
     
+=======
+    padding: 10px;
+>>>>>>> 170e3f61abc390f71a1e2116e5543f3f0ae2dee2
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
    border: 3px solid black;
+<<<<<<< HEAD
    background-color: #ffb6c1;
     color: black;
     margin: 10px;
     
+=======
+    color: black;
+    margin: 10px;
+    border-radius: 10px;
+>>>>>>> 170e3f61abc390f71a1e2116e5543f3f0ae2dee2
   
 }
 body{
@@ -52,10 +69,15 @@ h2{
 
   a{
     border: 3px solid black;
+<<<<<<< HEAD
     border-radius: 8px;
     height: 10px;
     color: black;
     background-color: whitesmoke;
+=======
+    border-radius: 10px;
+    color: black;
+>>>>>>> 170e3f61abc390f71a1e2116e5543f3f0ae2dee2
   }
   .nav a:hover {
     background: #ddd;
@@ -71,16 +93,21 @@ h2{
   }
 h3{
     text-align: center;
+<<<<<<< HEAD
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 20px;
     
   
+=======
+    
+>>>>>>> 170e3f61abc390f71a1e2116e5543f3f0ae2dee2
     font-size: 30px;
     font-weight: bolder;
 }
 button{
     text-align: center;
+<<<<<<< HEAD
     margin-left: 550px;
     padding: 15px;
     border: 2px solid black;
@@ -128,3 +155,11 @@ h3{
   font-size: 30px;
   font-weight: bolder;
 }
+=======
+    margin-left: 680px;
+    padding: 15px;
+    border: 2px solid black;
+    cursor: pointer;
+
+}
+>>>>>>> 170e3f61abc390f71a1e2116e5543f3f0ae2dee2
